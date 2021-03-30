@@ -1,7 +1,7 @@
 # Unemployment in South Africa
 ### Exploratory Data Analysis & Data Vizualisation
 
-![](/images/Unemployment-fp.jpg)
+![](/images/Unemployment-fp.jpg?raw=true)
 
 Unemployment in South Africa has reached crisis levels and current projections show no signs of improvement.  The South African Government cites [6 possible root causes](https://www.gcis.gov.za/content/resourcecentre/newsletters/insight/issue13) for the high unemployment. This notebook sets out to determines if there is data to support these theories.   
 
