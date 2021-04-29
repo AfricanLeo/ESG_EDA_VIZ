@@ -177,3 +177,5 @@ In order to solve a problem, one needs, among other things, a good understanding
 What became clear from this analysis, though, is that South Africa is not as different from its African neighbours as might sometimes be believed. 
 
 Africa is a unique continent and we might find it usefull to look at our neighbours for successful and best practices that lead to improved employment and a better life for all.
+
+[RETURN TO PORTFOLIO](https://africanleo.github.io/Leonora-Schreurs-Portfolio/)
